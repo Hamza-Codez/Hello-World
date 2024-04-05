@@ -14,7 +14,7 @@ I'm a CS student with a passion for coding and a focus on front-end development.
 
 ## Let's Connect
 - 📫 Reach out for collaborations or to share insights.
-- 💬 Connect with me via [social media/email].
+- 💬 Connect with me via [ha01257890@gmail.com].
 
 ## Let's Code Together
 - 🌟 Join me on this journey of coding exploration and improvement!
